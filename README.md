@@ -1,4 +1,4 @@
-
+<img src="Hello Everyone.gif">
 <h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
 <h3 align="center">A passionate graphic designer and a web-developer.</h3>
 
