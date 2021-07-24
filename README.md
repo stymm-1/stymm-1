@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
 <h3 align="center">A passionate graphic designer and a web-developer.</h3>
 - 🎓 I'm a second year UG student at IIT Indore.
-- 
+
 - 🌱 I’m currently learning **Data Structures & Algorithms** and exploring **Open Source Contribution**
 
 - 📫 How to reach me **satyam.gupta12313@gmail.com**
