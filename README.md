@@ -35,11 +35,11 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="140" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="140" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg" width="140" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/camunda/camunda-ar21~bgwhite.svg" width="140" height="40" />
-  <img src="https://www.drools.org/headerFooter/DroolsLogo200px.png" width="140" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="75" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="75" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg" width="75" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/camunda/camunda-ar21~bgwhite.svg" width="75" height="40" />
+  <img src="https://www.drools.org/headerFooter/DroolsLogo200px.png" width="75" height="40" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
